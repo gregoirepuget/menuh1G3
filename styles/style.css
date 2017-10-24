@@ -1,7 +1,11 @@
 body{
   margin:0;
 }
+/************
 
+  Menu Horizontal
+
+*************/
 nav.menu{
   background: #D84315;
 }
@@ -42,3 +46,9 @@ nav.menu ul li ul{
 nav.menu ul li:hover ul{
   display: block;
 }
+
+/************
+
+  Menu Vertical
+
+*************/
